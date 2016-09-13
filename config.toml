@@ -1,6 +1,6 @@
 baseurl = "https://erankeren.github.io/"
 languageCode = "en-us"
-title = "EranKeren"
+title = "Eran Keren"
 theme = "vec"
 
 [menu]

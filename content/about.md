@@ -3,14 +3,10 @@ comments = false
 date = "2016-09-13T11:43:42+01:00"
 #draft = true
 slug = ""
-#title = "about"
+title = "Who am I?"
 toc = false
 
 +++
-
-### **Hey There (-;**
-
-I'm Eran Keren.
 
 A software ninja / coder / manager / full-stack / hands-on.
 
