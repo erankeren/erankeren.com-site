@@ -19,7 +19,8 @@ theme = "vec"
   Description = "This is my awsome website"
   
   Avater = "img/my8bit.png"
-  SelfIntro = "Hey There;" 
+  SelfIntro = "Hey There;"
+  Email = "me@erankeren.com" 
   
   GithubID = "erankeren"
   TwitterID = "erank_me"
