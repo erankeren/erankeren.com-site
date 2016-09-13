@@ -12,7 +12,7 @@ A software ninja / coder / manager / full-stack / hands-on.
 
 I live in London and enjoy swimming in the cold Hampstead ponds 🙂
 
-![alt text](/img/pond.jpeg "POND")
+<img src="/img/pond.jpeg" width="300px">
 
 
 I'm also a human being / husband / father / basketball player / jogger / ...
