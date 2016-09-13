@@ -1,0 +1,28 @@
+baseurl = "https://erankeren.github.io/"
+languageCode = "en-us"
+title = "EranKeren"
+theme = "vec"
+
+[menu]
+  # Shown in the side menu.
+  [[menu.main]]
+    name = "about"
+    weight = 0
+    url = "/about"
+  [[menu.main]]
+    name = "contact"
+    weight = 1
+    url = "/contact"
+  
+[params]
+  Keywords = "key"
+  Description = "This is my awsome website"
+  
+  Avater = "img/my8bit.png"
+  SelfIntro = "Hello world..." 
+  
+  GithubID = "erankeren"
+  TwitterID = "erank_me"
+  LinkedInID = "erank"
+  AnalyticsID = "Your Google Analytics tracking code"
+  DisqusID = "Your Disqus shortname"
