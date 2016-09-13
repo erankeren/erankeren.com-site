@@ -2,6 +2,7 @@ baseurl = "https://erankeren.github.io/"
 languageCode = "en-us"
 title = "Eran Keren"
 theme = "vec"
+Email = "me@erankeren.com"
 
 [menu]
   # Shown in the side menu.
@@ -20,7 +21,6 @@ theme = "vec"
   
   Avater = "img/my8bit.png"
   SelfIntro = "Hey There;"
-  Email = "me@erankeren.com" 
   
   GithubID = "erankeren"
   TwitterID = "erank_me"
