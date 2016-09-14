@@ -3,14 +3,14 @@ comments = false
 date = "2016-09-13T20:13:09+01:00"
 #draft = true
 slug = ""
-title = "How can you contact me?"
+#title = "Ping me"
 toc = false
 
 +++
 
 ### EMAIL
 
-[me@erankeren.me](mailto:me@erankeren.me)
+[me@erankeren.com](mailto:me@erankeren.com)
 
 ### LINKEDIN
 
@@ -23,7 +23,6 @@ https://github.com/erankeren/
 ### TWITTER
 
 [@erank_me](https://twitter.com/erank_me)
-
 
 ### TELEGRAM
 
