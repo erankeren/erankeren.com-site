@@ -1,7 +1,6 @@
 +++
 comments = false
-date = "2016-09-14T16:37:18+01:00"
-#draft = true
+date = "2016-09-01T16:37:18+01:00"
 slug = ""
 title = "Building my website - Version II"
 toc = false
@@ -34,8 +33,9 @@ I had to create two git repo's:
 
 Now I had to change the dns records in cloudflare to point to my github page. 
 
+
 # Oops...
-It was working fine with just one glich: Github pages doesnt support SSL with custom domain (**really...why??**)
+It was working fine with just one glich: Github pages doesnt support SSL with custom domain (**really...why???...**)
 
 ## Finally
 

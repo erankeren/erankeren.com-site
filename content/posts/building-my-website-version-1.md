@@ -1,7 +1,6 @@
 +++
 comments = false
-date = "2016-09-14T16:04:16+01:00"
-#draft = true
+date = "2016-08-20T16:04:16+01:00"
 slug = ""
 title = "Building my website - Version I"
 toc = false
